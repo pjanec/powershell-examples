@@ -1,0 +1,5 @@
+$build_host = "192.168.1.104:8080"
+$lastBuildAPIURL = "http://" + build_host + "/job/%s/lastSuccessfulBuild/api/json"
+$lastBuildArtifactLURL = "http://" + build_host + "/job/%s/lastSuccessfulBuild/artifact/%s"
+$localSaveDir = "tmp"
+$artifactExtension=".7z"

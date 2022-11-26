@@ -1,0 +1,6 @@
+VAR1=10
+VAR2=
+INVALID VAR nema to rovnitko vubec
+VAR3=ahoj ferdo
+ VAR4 = nazdarek franto na konci jsoue mezery 
+VAR5 = tohle ma = dalsi rovnitko

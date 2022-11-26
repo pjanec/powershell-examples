@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://bagirasystems.visualstudio.com/Bagira%20Systems/_git/Bagira.Infra
+	branch = master
+	commit = 23255e5f54593e4f749d6f9097bffa3a0cdbb6e0
+	parent = 21ebd471cf77c22398b45ebbc679c76f8ac8c6c7
+	method = merge
+	cmdver = 0.4.3

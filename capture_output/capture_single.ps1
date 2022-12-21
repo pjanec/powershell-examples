@@ -1,0 +1,3 @@
+$singleLine = date
+"singleLine: $singleLine"
+
